@@ -1,14 +1,3 @@
-"""
-Modulo: calculadora_indices
-
-este modulo contiene funciones para calcular distintos indices corporales relacionados con la salud:
-- indice de Masa Corporal (IMC)
-- porcentaje de Grasa Corporal
-- tasa Metabólica Basal (TMB)
-- calorías recomendadas para adelgazar
-
-"""
-
 def calcular_IMC(peso, altura):
     """
     calcula el Índice de Masa Corporal (IMC).
